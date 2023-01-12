@@ -1,31 +1,33 @@
 ***
-# Hi there, 👋 
+# Hi there, 👋  
 
 
 
 ***
 
 
-I am ***Mahboob Alam*** from Kolkata. I love to talk about _programming_, _data structures_ and _algorithms_, _problem_ _solving_ and _open source_. It's been not too long I am into this fascinating world of computers but I am on my path to be able to _create_ _some_ _value_ _to_ _the_ _human_ _lives_.   
+I am ***Mahboob Alam*** 😀 from Kolkata 🌃. I love to talk about _programming_, 🛠 _data structures_ and _algorithms_, ⚓ _problem_ _solving_ 🚦 and _open source_ 📖. It's been not too long I am into this fascinating world of computers 💻 but I am on my path to be able to _create_ _some_ _value_ _to_ _the_ _human_ _lives_ ✨.   
 
 ***
 
 
-🔭 Expertise:
+🔭 Expertise: 💪🏿
   - Language: C, C++, Python.  
+  - Data Structures And Algorithms 
+  
 
-🌱 I’m currently focusing on: 
+🌱 I’m currently focusing on: 👀
   - Problem solving
   
 
-👯 I’m looking to collaborate on: 
-  - Problem solving, projects.
+👯 I’m looking to collaborate on: 👨🏿‍💻
+  - Problem solving, projects in python.
   
   ***
   
   
   
-📫 Reach Me On: 
+📫 Reach Me On: 🙋🏿‍♂️
   - [Gmail](iammahboob.a@gmail.com "Head on to email me!") 
   - [LinkedIn](https://www.linkedin.com/in/i-mahboob/ "Connect me on LinkedIn") 
   - [GitHub](https://github.com/Mahboob-A/ "Connect me on Github")
