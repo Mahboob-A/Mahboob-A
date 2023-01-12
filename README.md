@@ -16,6 +16,6 @@ I am Mahboob Alam from Kolkata. I love to talk about programming, data structure
   
 📫 How to reach me:
 Gmail: iammahboob.a@gmail.com
-LinkedIn: [https://www.linkedin.com/in/27aadesh/](https://www.linkedin.com/in/i-mahboob/)
+LinkedIn: https://www.linkedin.com/in/27aadesh/](https://www.linkedin.com/in/i-mahboob/
 GitHub: https://github.com/Mahboob-A
-Twitter: [https://twitter.com/27aadesh](https://twitter.com/iMahboob_A)
+Twitter: https://twitter.com/27aadesh](https://twitter.com/iMahboob_A
