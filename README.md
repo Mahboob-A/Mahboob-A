@@ -1,11 +1,11 @@
 # Hi there, 👋 
-![IMG-20200622-WA0033-modified](https://user-images.githubusercontent.com/109282492/211998192-aecb6dfb-e5c4-4e21-91fc-99c4d1921667.png)
+
 
 
 ***
 
 
-###I am Mahboob Alam from Kolkata. I love to talk about programming, data structures and algorithms, problem solving and open source. It's been not too long I am into this fascinating world of computers but I am on my path to be able to create some value to the human lives.   
+I am ***Mahboob Alam*** from Kolkata. I love to talk about _programming_, _data structures_ and _algorithms_, _problem_ _solving_ and _open source_. It's been not too long I am into this fascinating world of computers but I am on my path to be able to _create_ _some_ _value_ _to_ _the_ _human_ _lives_.   
 
 ***
 
@@ -19,6 +19,7 @@
 
 👯 I’m looking to collaborate on: 
   - Problem solving, projects.
+  
   ***
   
   
