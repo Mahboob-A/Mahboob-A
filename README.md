@@ -6,8 +6,7 @@
 I am Mahboob Alam from Kolkata. I love to talk about programming, data structures and algorithms, problem solving and open source. It's been not too long I am into this fascinating world of computers but I am on my path to be able to create some value to the human lives.   
 
 🔭 Expertise
-Language: C, C++, Python.  
-
+  Language: C, C++, Python.  
 
 🌱 I’m currently focusing on
   Problem solving
