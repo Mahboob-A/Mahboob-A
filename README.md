@@ -33,7 +33,7 @@ I am ***Mahboob Alam*** 😀 from Kolkata 🌃. I love to talk about _programmin
   - [LinkedIn](https://www.linkedin.com/in/i-mahboob/ "Connect me on LinkedIn") 
   - [GitHub](https://github.com/Mahboob-A/ "Connect me on Github")
   - [Twitter](https://twitter.com/iMahboob_A/ "Connect me on Twitter")
-  - [Facebook](https://www.facebook.com/iyurious/ ""Connect me on Facebook")
+  - [Facebook](https://www.facebook.com/iyurious/ "Connect me on Facebook")
   
   ***
   ![GitHub all releases](https://img.shields.io/github/downloads/{Mahboob-A}/{flight-schedule-management}/total)
