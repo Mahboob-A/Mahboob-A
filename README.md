@@ -7,16 +7,17 @@
 🔭 Expertise:
   Language: C, C++, Python.  
 
-🌱 I’m currently focusing on:
+🌱 I’m currently focusing on: 
   Problem solving
-
-👯 I’m looking to collaborate on:
-  !Problem solving, projects. 
   
-📫 How to reach me:
-Gmail: iammahboob.a@gmail.com
-LinkedIn: https://www.linkedin.com/in/27aadesh/](https://www.linkedin.com/in/i-mahboob/
-GitHub: https://github.com/Mahboob-A
-Twitter: https://twitter.com/27aadesh](https://twitter.com/iMahboob_A
 
-
+👯 I’m looking to collaborate on: 
+  Problem solving, projects.
+  
+📫 How to reach me: 
+  Gmail: iammahboob.a@gmail.com 
+  LinkedIn: https://www.linkedin.com/in/i-mahboob/ 
+  GitHub: https://github.com/Mahboob-A 
+  Twitter: https://twitter.com/27aadesh](https://twitter.com/iMahboob_A 
+  
+   
