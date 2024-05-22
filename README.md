@@ -48,13 +48,6 @@ const mahboob = {
 ```
 
 
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people</b> so if you want to say <b>hi, I'll be happy to hear you more!</b> 😊</em>
-
-
-
-
-
 ### 🛠 &nbsp;&nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -101,8 +94,9 @@ const mahboob = {
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mahboob-A&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people</b> so if you want to say <b>hi, I'll be happy to hear you more!</b> 😊</em>
 
-### 📫 In case you wanted to say hi...
+### 📫 And in case you wanted to say hi...
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about. 
 
