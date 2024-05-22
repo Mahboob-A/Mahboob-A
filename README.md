@@ -4,11 +4,17 @@
 
 <p>
     <a href="https://vaunt.dev">
-        <img src="https://api.vaunt.dev/v1/github/entities/{{Mahboob-A}}/contributions?format=svg" width="350" title="Includes public contributions"/>
+        <img src="https://api.vaunt.dev/v1/github/entities/Mahboob-A/contributions?format=svg" width="350" title="Includes public contributions"/>
     </a>
 </p>
 
 
+
+<p>
+  <a href="https://vaunt.dev">
+    <img decoding="async" loading="lazy" src="https://api.vaunt.dev/v1/github/entities/Mahboob-A/achievements?format=svg&limit=8&raw=true" width="600" />
+  </a>
+</p>
 ***
 
 
