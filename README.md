@@ -29,13 +29,6 @@ I am ***Mahboob Alam*** 😀 from Kolkata 🌃. I love to talk about _programmin
   ***
   
 
-  
-<p>
-    <a href="https://vaunt.dev">
-        <img src="https://api.vaunt.dev/v1/github/entities/Mahboob-A/contributions?format=svg" width="350" title="Includes public contributions"/>
-    </a>
-</p>
-
 
 ### 🛠 &nbsp;&nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -50,6 +43,13 @@ I am ***Mahboob Alam*** 😀 from Kolkata 🌃. I love to talk about _programmin
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+<p>
+    <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/v1/github/entities/Mahboob-A/contributions?format=svg" width="350" title="Includes public contributions"/>
+    </a>
+</p>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
