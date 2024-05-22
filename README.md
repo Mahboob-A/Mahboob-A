@@ -1,5 +1,5 @@
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Mahboob-A/Mahboob-A/main/dist/github-snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake Gif](https://raw.githubusercontent.com/Mahboob-A/Mahboob-A/main/dist/ocean.gif)
+
 
 ***
 # Hi there, 👋  
