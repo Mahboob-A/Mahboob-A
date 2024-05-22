@@ -3,7 +3,7 @@
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Mahboob-A/Mahboob-A/main/dist/github-snake-dark.svg#gh-dark-mode-only)
 
 
-
+<img alt="Night Coding" src="[./assets/Hand%20Wave.gif](https://github.com/Mahboob-A/Mahboob-A/assets/109282492/a866b1b7-3e89-4ac3-9282-02902f922265)" width='40' align="left"/><h2>Hey there! I'm Mahboob</h2>
 
 ### My Contributions 🐍
 
@@ -51,9 +51,8 @@ I am ***Mahboob Alam*** 😀 from Kolkata 🌃. I love to talk about _programmin
     </a>
 </p>
 
-![Night-Coding](https://github.com/Mahboob-A/Mahboob-A/assets/109282492/a866b1b7-3e89-4ac3-9282-02902f922265)
 
-<img alt="Night Coding" src="[./assets/Hand%20Wave.gif](https://github.com/Mahboob-A/Mahboob-A/assets/109282492/a866b1b7-3e89-4ac3-9282-02902f922265)" width='40' align="left"/><h2>Hey there! I'm Mahboob</h2>
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
