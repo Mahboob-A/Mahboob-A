@@ -1,3 +1,6 @@
+![GitHub Snake Dark](https://raw.githubusercontent.com/Mahboob-A/Mahboob-A/main/dist/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Gif](https://raw.githubusercontent.com/Mahboob-A/Mahboob-A/main/dist/ocean.gif)
+
 ***
 # Hi there, 👋  
 
@@ -22,9 +25,7 @@
 
 ### My Contributions 🐍
 
-![GitHub Snake Light](https://raw.githubusercontent.com/Mahboob-A/Mahboob-A/main/dist/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Mahboob-A/Mahboob-A/main/dist/github-snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake Gif](https://raw.githubusercontent.com/Mahboob-A/Mahboob-A/main/dist/ocean.gif)
+
 
 
 
