@@ -20,11 +20,12 @@
 
 ### My Contributions 🐍
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahboob-A/Mahboob-A/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahboob-A/Mahboob-A/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mahboob-A/Mahboob-A/output/github-contribution-grid-snake.svg">
-</picture>
+### My Contributions 🐍
+
+![GitHub Snake Light](https://raw.githubusercontent.com/Mahboob-A/Mahboob-A/main/dist/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Mahboob-A/Mahboob-A/main/dist/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Gif](https://raw.githubusercontent.com/Mahboob-A/Mahboob-A/main/dist/ocean.gif)
+
 
 
 
