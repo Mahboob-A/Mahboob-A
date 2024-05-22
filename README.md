@@ -37,11 +37,6 @@ I am ***Mahboob Alam*** 😀 from Kolkata 🌃. I love to talk about _programmin
 </p>
   
 📫 Reach Me On: 🙋🏿‍♂️
-<p align="center">
-<a href="https://www.linkedin.com/in/i-mahboob-alam/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:connect.mahboobalam"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/iyurious"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
 
   - [Gmail](iammahboob.a@gmail.com "Head on to email me!") 
   - [LinkedIn](https://www.linkedin.com/in/i-mahboob/ "Connect me on LinkedIn") 
