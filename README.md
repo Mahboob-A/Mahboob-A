@@ -11,12 +11,12 @@ const mahboob = {
 
     code: ["Python", "C", "Cpp"],
 
-    askMeAbout: ["backend web dev", "tech", "sysdem design", "cloud", "solo travelling", "tech blog"],
+    askMeAbout: ["backend web dev", "tech", "sysdem design", "cloud", "tech blog", "solo travelling"],
 
     technologies: {
         backEnd: {
             python: ["Django", "FasiAPI", "Flask"],
-            tools: ["redis", "celery", "websocket", "Django Rest Framework", "RabbitMQ", "RESTFul API", "Git and Github"], 
+            tools: ["redis", "celery", "websocket", "Django Rest Framework", "RabbitMQ", "RESTFul API", "Git"], 
         },
 
         devOps: {
