@@ -2,34 +2,6 @@
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Mahboob-A/Mahboob-A/main/dist/github-snake-dark.svg#gh-dark-mode-only)
 
-![Night-Coding](https://github.com/Mahboob-A/Mahboob-A/assets/109282492/8016fad9-df24-4c9a-b676-4c3ab6493a80)
-
-
-<table>
-  <tr>
-    <td>
-      <p>
-        <a href="https://vaunt.dev">
-          <img src="https://api.vaunt.dev/v1/github/entities/Mahboob-A/contributions?format=svg" width="350" title="Includes public contributions"/>
-        </a>
-      </p>
-    </td>
-    <td>
-      <img src="https://github.com/Mahboob-A/Mahboob-A/assets/109282492/8016fad9-df24-4c9a-b676-4c3ab6493a80" alt="Night-Coding"/>
-    </td>
-  </tr>
-</table>
-
-
-<div style="display: flex; align-items: center;">
-  <p>
-    <a href="https://vaunt.dev">
-      <img src="https://api.vaunt.dev/v1/github/entities/Mahboob-A/contributions?format=svg" width="350" title="Includes public contributions"/>
-    </a>
-  </p>
-  <img src="https://github.com/Mahboob-A/Mahboob-A/assets/109282492/8016fad9-df24-4c9a-b676-4c3ab6493a80" alt="Night-Coding"/>
-</div>
-
 
 ### My Contributions 🐍
 
@@ -71,13 +43,20 @@ I am ***Mahboob Alam*** 😀 from Kolkata 🌃. I love to talk about _programmin
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-<p>
-    <a href="https://vaunt.dev">
-        <img src="https://api.vaunt.dev/v1/github/entities/Mahboob-A/contributions?format=svg" width="350" title="Includes public contributions"/>
-    </a>
-</p>
-
-
+<table>
+  <tr>
+    <td>
+      <p>
+        <a href="https://vaunt.dev">
+          <img src="https://api.vaunt.dev/v1/github/entities/Mahboob-A/contributions?format=svg" width="350" title="Includes public contributions"/>
+        </a>
+      </p>
+    </td>
+    <td>
+      <img src="https://github.com/Mahboob-A/Mahboob-A/assets/109282492/8016fad9-df24-4c9a-b676-4c3ab6493a80" alt="Night-Coding"/>
+    </td>
+  </tr>
+</table>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
