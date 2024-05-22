@@ -70,6 +70,10 @@ I am ***Mahboob Alam*** 😀 from Kolkata 🌃. I love to talk about _programmin
   
 📫 Reach Me On: 🙋🏿‍♂️
 
+[![Twitter/X](https://img.shields.io/twitter/follow/iMahboob_A?label=Follow)](https://twitter.com/intent/follow?screen_name=iMahboob_A)
+[![Linkedin: Mahboob Alam](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/i-mahboob-alam/)](https://www.linkedin.com/in/i-mahboob-alam/)
+![GitHub followers](https://img.shields.io/github/followers/Mahboob-A?label=Follow&style=social)
+
   - [Gmail](iammahboob.a@gmail.com "Head on to email me!") 
   - [LinkedIn](https://www.linkedin.com/in/i-mahboob/ "Connect me on LinkedIn") 
   - [GitHub](https://github.com/Mahboob-A/ "Connect me on Github")
