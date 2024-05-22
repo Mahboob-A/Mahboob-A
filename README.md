@@ -66,12 +66,13 @@ I am ***Mahboob Alam*** 😀 from Kolkata 🌃. I love to talk about _programmin
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mahboob-A&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mahboob-A&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+
+
   
 📫 Reach Me On: 🙋🏿‍♂️
 
 [![Twitter/X](https://img.shields.io/twitter/follow/iMahboob_A?label=Follow)](https://twitter.com/intent/follow?screen_name=iMahboob_A)
-[![Linkedin: Mahboob Alam](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/i-mahboob-alam/)](https://www.linkedin.com/in/i-mahboob-alam/)
+[![Linkedin: Mahboob Alam](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fi-mahboob-alam%2F=white&link=https://www.linkedin.com/in/i-mahboob-alam/)](https://www.linkedin.com/in/i-mahboob-alam/)
 ![GitHub followers](https://img.shields.io/github/followers/Mahboob-A?label=Follow&style=social)
 
   - [Gmail](iammahboob.a@gmail.com "Head on to email me!") 
