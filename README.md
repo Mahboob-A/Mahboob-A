@@ -3,29 +3,56 @@
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Mahboob-A/Mahboob-A/main/dist/github-snake-dark.svg#gh-dark-mode-only)
 
 
-### My Contributions 🐍
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const mahboob = {
+    pronouns: "He" | "Him",
+
+    code: ["Python", "C", "Cpp"],
+
+    askMeAbout: ["backend web dev", "tech", "sysdem design", "cloud", "solo travelling", "tech blog"],
+
+    technologies: {
+        backEnd: {
+            python: ["Django", "FasiAPI", "Flask"],
+            tools: ["redis", "celery", "websocket", "Django Rest Framework", "RabbitMQ", "RESTFul API", "Git and Github"], 
+        },
+
+        devOps: {
+          cloud: ["AWS",  "Route53", "Nginx", "EC2", "Digital Ocean"],
+          tools: ["Docker🐳", "Linux"], 
+        },
+
+        databases: {
+            sql: ["PostgreSQL", "MySql", "sqlite"],
+        },
+
+        coreCS: {
+          subjects: ["operating system", "networking", "dbms", "data structures and algorithms"], 
+      },
+
+      specialization: {
+          domain: ["python backend development", "system design", "networking", "cloud", "aws"]
+      },
+
+        misc: ["socket programmming", "webRTC", "technical blog writer", "design pattern"]
+    },
+
+    architecture: ["microservices architecture", "monolithic architecture"],
+
+    currentFocus: "Advanced backend engineering and system design with specialization of aws",
+
+    funFact: "There are two ways to write error-free programs; only the third one works!"
+};
+```
 
 
-I am ***Mahboob Alam*** 😀 from Kolkata 🌃. I love to talk about _programming_, 🛠 _data structures_ and _algorithms_, ⚓ _problem_ _solving_ 🚦 and _open source_ 📖. It's been not too long I am into this fascinating world of computers 💻 but I am on my path to be able to _create_ _some_ _value_ _to_ _the_ _human_ _lives_ ✨.   
 
-***
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people</b> so if you want to say <b>hi, I'll be happy to hear you more!</b> 😊</em>
 
 
-🔭 Expertise: 💪🏿
-  - Language: C, C++, Python.  
-  - Data Structures And Algorithms 
-  
 
-🌱 I’m currently focusing on: 👀
-  - Problem solving
-  
-
-👯 I’m looking to collaborate on: 👨🏿‍💻
-  - Problem solving
-  - Projects in python.
-  
-  ***
-  
 
 
 ### 🛠 &nbsp;&nbsp;Tech Stack
@@ -41,6 +68,13 @@ I am ***Mahboob Alam*** 😀 from Kolkata 🌃. I love to talk about _programmin
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Docker](https://img.shields.io/badge/docker-black?style=flat&logo=docker)&nbsp;
+![Markdown](https://img.shields.io/badge/linux-black?style=flat&logo=linux)&nbsp;
+![Markdown](https://img.shields.io/badge/aws-black?style=flat&logo=AWS)&nbsp;
+
+
+
+
 
 
 <table>
@@ -68,24 +102,13 @@ I am ***Mahboob Alam*** 😀 from Kolkata 🌃. I love to talk about _programmin
 </a>
 
 
+### 📫 In case you wanted to say hi...
+
+Pick a slot if you'd like to meet me and chat about anything you are passionate about. 
+
+<a href="https://calendly.com/iammahboob-a" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
   
 📫 Reach Me On: 🙋🏿‍♂️
+[![Email Me](https://img.shields.io/badge/mahboob-black?style=flat&logo=gmail)](mailto:connect.mahboobalam@gmail.com?subject=Hello)
+[![Twitter/X](https://img.shields.io/twitter/follow/iMahboob_A?label=Follow)](https://twitter.com/intent/follow?screen_name=iMahboob_A) ![GitHub followers](https://img.shields.io/github/followers/Mahboob-A?label=Follow&style=social) [![LinkedIn](https://img.shields.io/badge/linkedin-mahboob-blue?style=flat)](https://www.linkedin.com/in/i-mahboob-alam/)
 
-[![Twitter/X](https://img.shields.io/twitter/follow/iMahboob_A?label=Follow)](https://twitter.com/intent/follow?screen_name=iMahboob_A)
-[![Linkedin: Mahboob Alam](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fi-mahboob-alam%2F=white&link=https://www.linkedin.com/in/i-mahboob-alam/)](https://www.linkedin.com/in/i-mahboob-alam/)
-![GitHub followers](https://img.shields.io/github/followers/Mahboob-A?label=Follow&style=social)
-
-  - [Gmail](iammahboob.a@gmail.com "Head on to email me!") 
-  - [LinkedIn](https://www.linkedin.com/in/i-mahboob/ "Connect me on LinkedIn") 
-  - [GitHub](https://github.com/Mahboob-A/ "Connect me on Github")
-  - [Twitter](https://twitter.com/iMahboob_A/ "Connect me on Twitter")
-  - [Facebook](https://www.facebook.com/iyurious/ "Connect me on Facebook")
-  
-  ***
-  ![GitHub all releases](https://img.shields.io/github/downloads/{Mahboob-A}/{flight-schedule-management}/total)
-  ![GitHub language count](https://img.shields.io/github/languages/count/{flight-schedule-management}/{Mahboob-Ae})
-  ![GitHub top language](https://img.shields.io/github/languages/top/{Mahboob-A}/{flight-schedule-management}?color=yellow)
-  ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/{Mahboob-A}/{flight-schedule-management})
-  ![GitHub forks](https://img.shields.io/github/forks/{Mahboob-A}/{flight-schedule-management}?style=social)
-  ![GitHub Repo stars](https://img.shields.io/github/stars/{Mahboob-A}/{flight-schedule-management}?style=social)
-  ***
