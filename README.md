@@ -3,7 +3,7 @@
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Mahboob-A/Mahboob-A/main/dist/github-snake-dark.svg#gh-dark-mode-only)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A small intro on what I do...  
 
 ```javascript
 const mahboob = {
