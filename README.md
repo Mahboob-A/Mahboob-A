@@ -11,12 +11,12 @@ const mahboob = {
 
     code: ["Python", "C", "Cpp"],
 
-    askMeAbout: ["backend web dev", "tech", "sysdem design", "cloud", "tech blog", "solo travelling"],
+    askMeAbout: ["Backend Web Dev", "Tech", "Sysdem Design", "Cloud", "Tech Blog", "Microservices", "Solo Travelling"],
 
     technologies: {
         backEnd: {
             python: ["Django", "FasiAPI", "Flask"],
-            tools: ["redis", "celery", "websocket", "Django Rest Framework", "RabbitMQ", "RESTFul API", "Git"], 
+            tools: ["Redis", "Celery", "WebSocket", "Django Rest Framework", "RabbitMQ", "RESTFul API", "Git"], 
         },
 
         devOps: {
@@ -25,23 +25,23 @@ const mahboob = {
         },
 
         databases: {
-            sql: ["PostgreSQL", "MySql", "sqlite"],
+            sql: ["PostgreSQL", "MySql", "SQLite"],
         },
 
         coreCS: {
-          subjects: ["operating system", "networking", "dbms", "data structures and algorithms"], 
+          subjects: ["Operating System", "Networking", "DBMS", "Data Structures and Algorithms"], 
       },
 
       specialization: {
-          domain: ["python backend development", "system design", "networking", "cloud", "aws"]
+          domain: ["python Backend Development", "System Design", "Networking", "Cloud", "AWS"]
       },
 
-        misc: ["socket programmming", "webRTC", "technical blog writer", "design pattern"]
+        misc: ["Socket Programmming", "webRTC", "Tech Blog", "Design Pattern"]
     },
 
-    architecture: ["microservices architecture", "monolithic architecture"],
+    architecture: ["Microservices Architecture", "Monolithic Architecture", "Event Driven"],
 
-    currentFocus: "Advanced backend engineering and system design with specialization of aws",
+    currentFocus: "Advanced Backend Engineering and System Design with Specialization on AWS",
 
     funFact: "There are two ways to write error-free programs; only the third one works!"
 };
