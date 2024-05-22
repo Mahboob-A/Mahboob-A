@@ -18,6 +18,16 @@
 ***
 
 
+### My Contributions 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahboob-A/Mahboob-A/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahboob-A/Mahboob-A/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mahboob-A/Mahboob-A/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
 I am ***Mahboob Alam*** 😀 from Kolkata 🌃. I love to talk about _programming_, 🛠 _data structures_ and _algorithms_, ⚓ _problem_ _solving_ 🚦 and _open source_ 📖. It's been not too long I am into this fascinating world of computers 💻 but I am on my path to be able to _create_ _some_ _value_ _to_ _the_ _human_ _lives_ ✨.   
 
 ***
