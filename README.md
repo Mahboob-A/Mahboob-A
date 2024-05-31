@@ -25,7 +25,7 @@ const mahboob = {
         },
 
         databases: {
-            sql: ["PostgreSQL", "MySql", "SQLite"],
+            sql: ["PostgreSQL", "MySql", "SQLite", "MongoDB"],
         },
 
         coreCS: {
