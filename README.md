@@ -47,6 +47,8 @@ const mahboob = {
 };
 ```
 
+### 🖎 &nbsp;&nbsp;I Write Here
+Read my writings on Django, System Deisgn, Microsevices etc. on [Medium](https://imehboob.medium.com/) and on [Hashnode](https://mahboobalam.hashnode.dev/) 
 
 ### 🛠 &nbsp;&nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
