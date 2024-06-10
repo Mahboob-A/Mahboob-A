@@ -52,6 +52,9 @@ Read my writings on Django, System Design, Microservices, etc. on
 <a href="https://imehboob.medium.com/" target="_blank">Medium</a> and on 
 <a href="https://mahboobalam.hashnode.dev/" target="_blank">Hashnode</a>.
 
+### ✒️ &nbsp;&nbsp;My Latest Medium Blog
+[![Mahboob AlamMedium](https://github-readme-medium.vercel.app/?username=imehboob)](https://medium.com/@imehboob)
+
 ### 🛠 &nbsp;&nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
