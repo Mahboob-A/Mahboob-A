@@ -92,7 +92,6 @@ Read my writings on Django, System Design, Microservices, etc. on
   </tr>
 </table>
 
-check
 
 ### ⚙️ &nbsp;GitHub Analytics
 
