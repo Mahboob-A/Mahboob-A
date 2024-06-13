@@ -56,22 +56,41 @@ Read my writings on Django, System Design, Microservices, etc. on
 [![Mahboob AlamMedium](https://github-readme-medium.vercel.app/?username=imehboob)](https://medium.com/@imehboob)
 
 ### 🛠 &nbsp;&nbsp;Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Docker](https://img.shields.io/badge/docker-black?style=flat&logo=docker)&nbsp;
-![Markdown](https://img.shields.io/badge/linux-black?style=flat&logo=linux)&nbsp;
-![Markdown](https://img.shields.io/badge/aws-black?style=flat&logo=AWS)&nbsp;
+![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c)
+![C++](https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Django](https://img.shields.io/badge/Django-05122A?style=flat&logo=django)
+![Flask](https://img.shields.io/badge/Flask-05122A?style=flat&logo=flask)
 
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
+![Linux](https://img.shields.io/badge/linux-black?style=flat&logo=linux)
+![GCP](https://img.shields.io/badge/GCP-05122A?style=flat&logo=google-cloud)
+![AWS](https://img.shields.io/badge/AWS-05122A?style=flat&logo=aws)
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman)
+![Insomnia](https://img.shields.io/badge/Insomnia-05122A?style=flat&logo=insomnia)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)
+![Nginx](https://img.shields.io/badge/Nginx-05122A?style=flat&logo=nginx)
+![Docker](https://img.shields.io/badge/docker-black?style=flat&logo=docker)
+
+![WebSocket](https://img.shields.io/badge/WebSocket-05122A?style=flat&logo=websocket)
+![Networking](https://img.shields.io/badge/Networking-05122A?style=flat&logo=networking)
+![Portainer](https://img.shields.io/badge/Portainer-05122A?style=flat&logo=portainer)
+![REST API](https://img.shields.io/badge/REST%20API-05122A?style=flat&logo=restapi)
+![Sentry](https://img.shields.io/badge/Sentry-05122A?style=flat&logo=sentry)
+
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Bash](https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash)
+![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+<br/>
 
 <table>
   <tr>
@@ -83,10 +102,12 @@ Read my writings on Django, System Design, Microservices, etc. on
       </p>
     </td>
     <td>
-        <img src="https://github.com/Mahboob-A/Mahboob-A/assets/109282492/c477db36-d6fc-407f-855f-48705a492cf8" alt="Night-Coding"/>
+        <img src="https://raw.githubusercontent.com/Mahboob-A/Mahboob-A/main/dist/nightcoding.gif" width="350" alt="Night-Coding"/>
     </td>
   </tr>
 </table>
+
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
