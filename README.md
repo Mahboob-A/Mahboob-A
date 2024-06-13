@@ -172,18 +172,3 @@ Pick a slot to meet me and we can chat about anything on this planet! 😅
     <img src="https://img.shields.io/badge/LeetCode-05122A?style=flat&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
 </p>
-
-<br/>
-<br/>
-<br/>
-
-
-
-
-
-
-
-
-
-
-
