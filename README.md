@@ -121,18 +121,24 @@ Read my writings on Django, System Design, Microservices, etc. on
     <td>
       <p>
         <a href="https://github.com/Mahboob-A">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mahboob-A&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+          <img height="300" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mahboob-A&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         </a>
       </p>
     </td>
     <td>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mahboob-A&layout=compact&langs_count=8&theme=algolia"/>
+        <img height="300" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mahboob-A&layout=compact&langs_count=8&theme=algolia"/>
     </td>
     <td>
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahboob-A&layout=compact&langs_count=8&theme=algolia"" alt="mahboob-a" />
+       <img height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahboob-A&layout=compact&langs_count=8&theme=algolia"" alt="mahboob-a" />
     </td>
   </tr>
 </table>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mahboob-a&no-frame=true&theme=algolia&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Followers,Issues,Reviews" alt="mahboob-a"/>
+
+<br/>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people</b> so if you want to say <b>hi, I'll be happy to hear you more!</b> 😊</em>
 
