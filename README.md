@@ -116,19 +116,19 @@ Read my writings on Django, System Design, Microservices, etc. on
   </tr>
 </table>
 
-<table style="width: 100%;">
+<table>
   <tr>
-    <td style="width: 33.3%; vertical-align: top;">
+    <td>
       <p>
         <a href="https://github.com/Mahboob-A">
           <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mahboob-A&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="250" alt="commit-stats" />
         </a>
       </p>
     </td>
-    <td style="width: 33.3%; vertical-align: top;">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mahboob-A&layout=compact&langs_count=8&theme=algolia" width="250" alt="top-languages" />
+    <td>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mahboob-A&layout=compact&langs_count=8&theme=algolia" width="250" alt="top-languages" />
     </td>
-    <td style="width: 33.3%; vertical-align: top;">
+    <td>
        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahboob-A&layout=compact&langs_count=8&theme=algolia" width="250" alt="language_count" />
     </td>
   </tr>
