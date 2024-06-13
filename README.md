@@ -121,15 +121,15 @@ Read my writings on Django, System Design, Microservices, etc. on
     <td>
       <p>
         <a href="https://github.com/Mahboob-A">
-          <img height="100" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mahboob-A&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+          <img width="250" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mahboob-A&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         </a>
       </p>
     </td>
     <td>
-        <img height="100" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mahboob-A&layout=compact&langs_count=8&theme=algolia"/>
+        <img width="250" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mahboob-A&layout=compact&langs_count=8&theme=algolia"/>
     </td>
     <td>
-       <img height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahboob-A&layout=compact&langs_count=8&theme=algolia"" alt="mahboob-a" />
+       <img width="250 src="https://github-readme-streak-stats.herokuapp.com/?user=Mahboob-A&layout=compact&langs_count=8&theme=algolia"" alt="mahboob-a" />
     </td>
   </tr>
 </table>
