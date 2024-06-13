@@ -129,5 +129,28 @@ Pick a slot to meet me and we can chat about anything on this planet! 😅
   
 📫 Reach Me On: 🙋🏿‍♂️
 [![Email Me](https://img.shields.io/badge/mahboob-black?style=flat&logo=gmail)](mailto:connect.mahboobalam@gmail.com?subject=Hello)
-[![Twitter/X](https://img.shields.io/twitter/follow/iMahboob_A?label=Follow)](https://twitter.com/intent/follow?screen_name=iMahboob_A) ![GitHub followers](https://img.shields.io/github/followers/Mahboob-A?label=Follow&style=social) [![LinkedIn](https://img.shields.io/badge/linkedin-mahboob-blue?style=flat)](https://www.linkedin.com/in/i-mahboob-alam/)
+<p align="left">
+  <a href="https://twitter.com/imahboob_a" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-05122A?style=flat&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://linkedin.com/in/i-mahboob-alam" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://hashnode.com/@imehboob" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-05122A?style=flat&logo=hashnode&logoColor=white" alt="Hashnode">
+  </a>
+  <a href="https://medium.com/@imehboob" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-05122A?style=flat&logo=medium&logoColor=white" alt="Medium">
+  </a>
+  <a href="https://dev.to/imahboob_a" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-05122A?style=flat&logo=dev.to&logoColor=white" alt="Devto">
+  </a>
+  <a href="https://www.leetcode.com/mahboob-alam" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-05122A?style=flat&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+</p>
+
+
+
+
 
