@@ -84,7 +84,7 @@ Read my writings on Django, System Design, Microservices, etc. on
       </p>
     </td>
     <td>
-      <img src="https://github.com/Mahboob-A/Mahboob-A/assets/109282492/8016fad9-df24-4c9a-b676-4c3ab6493a80" alt="Night-Coding"/>
+        <img src="https://github.com/Mahboob-A/Mahboob-A/assets/109282492/8016fad9-df24-4c9a-b676-4c3ab6493a80" alt="Night-Coding"/>
     </td>
   </tr>
 </table>
