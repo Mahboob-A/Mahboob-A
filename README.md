@@ -121,7 +121,7 @@ Read my writings on Django, System Design, Microservices, etc. on
     <td>
       <p>
         <a href="https://github.com/Mahboob-A">
-          <img width="250" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mahboob-A&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="250" alt="commit-stats" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mahboob-A&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="250" alt="commit-stats" />
         </a>
       </p>
     </td>
