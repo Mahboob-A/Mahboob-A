@@ -72,6 +72,7 @@ Read my writings on Django, System Design, Microservices, etc. on
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 ![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman)
 ![Insomnia](https://img.shields.io/badge/Insomnia-05122A?style=flat&logo=insomnia)
+![Microservices](https://img.shields.io/badge/Microservices-05122A?style=flat&logo=microservices)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)
@@ -91,6 +92,7 @@ Read my writings on Django, System Design, Microservices, etc. on
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
+
 
 <table>
   <tr>
