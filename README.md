@@ -49,8 +49,13 @@ const mahboob = {
 
 ### 🖎 &nbsp;&nbsp;I Write Here
 Read my writings on Django, System Design, Microservices, etc. on 
-<a href="https://imehboob.medium.com/" target="_blank">Medium</a> and on 
-<a href="https://mahboobalam.hashnode.dev/" target="_blank">Hashnode</a>.
+<a href="https://medium.com/@imehboob" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-05122A?style=flat&logo=medium&logoColor=white" alt="Medium">
+</a> and
+<a href="https://hashnode.com/@imehboob" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-05122A?style=flat&logo=hashnode&logoColor=white" alt="Hashnode">
+</a>
+
 
 #### ✒️ &nbsp;&nbsp;My Latest Medium Blog
 [![Mahboob AlamMedium](https://github-readme-medium.vercel.app/?username=imehboob)](https://medium.com/@imehboob)
@@ -94,6 +99,8 @@ Read my writings on Django, System Design, Microservices, etc. on
 <br/>
 
 
+### ⚙️ &nbsp;GitHub Analytics
+
 <table>
   <tr>
     <td>
@@ -109,15 +116,23 @@ Read my writings on Django, System Design, Microservices, etc. on
   </tr>
 </table>
 
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Mahboob-A">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mahboob-A&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mahboob-A&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<table>
+  <tr>
+    <td>
+      <p>
+        <a href="https://github.com/Mahboob-A">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mahboob-A&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        </a>
+      </p>
+    </td>
+    <td>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mahboob-A&layout=compact&langs_count=8&theme=algolia"/>
+    </td>
+    <td>
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahboob-A&layout=compact&langs_count=8&theme=algolia"" alt="mahboob-a" />
+    </td>
+  </tr>
+</table>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people</b> so if you want to say <b>hi, I'll be happy to hear you more!</b> 😊</em>
 
@@ -128,7 +143,8 @@ Pick a slot to meet me and we can chat about anything on this planet! 😅
 <a href="https://calendly.com/iammahboob-a" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
   
 📫 Reach Me On: 🙋🏿‍♂️
-[![Email Me](https://img.shields.io/badge/mahboob-black?style=flat&logo=gmail)](mailto:connect.mahboobalam@gmail.com?subject=Hello)
+[![Email Me](https://img.shields.io/badge/mahboob-black?style=flat&logo=gmail)](mailto:connect.mahboobalam@gmail.com?subject=Hello) 
+<img src="https://komarev.com/ghpvc/?username=mahboob-a&label=Profile%20views&color=0e75b6&style=flat" alt="mahboob-a" /> 
 <p align="left">
   <a href="https://twitter.com/imahboob_a" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-05122A?style=flat&logo=twitter&logoColor=white" alt="Twitter">
@@ -149,6 +165,16 @@ Pick a slot to meet me and we can chat about anything on this planet! 😅
     <img src="https://img.shields.io/badge/LeetCode-05122A?style=flat&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
 </p>
+
+<br/>
+<br/>
+<br/>
+
+
+
+
+
+
 
 
 
