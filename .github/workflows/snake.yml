@@ -6,7 +6,7 @@ on:
       - main  # Change this to your default branch if different
 
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
+    - cron: "0 0 */3 * *"  # Runs every 3 days at midnight
 
 jobs:
   build:
