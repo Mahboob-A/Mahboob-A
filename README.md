@@ -142,7 +142,7 @@ Read my writings on Django, System Design, Microservices, etc. on
 <br/>
 
 #### 🔖 My Bookmarks
-<a href="https://app.daily.dev/mahboob_a"><img src="https://api.daily.dev/devcards/v2/2cWKysAc3eZz79KZ5av5K.png?type=wide&r=etq" width="430" alt="Mahboob Alam's Dev Card"/></a>
+<a href="https://app.daily.dev/mahboob_a" target="_blank"><img src="https://api.daily.dev/devcards/v2/2cWKysAc3eZz79KZ5av5K.png?type=wide&r=etq" width="450" alt="Mahboob Alam's Dev Card"/></a>
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people</b> so if you want to say <b>hi, I'll be happy to hear you more!</b> 😊</em>
@@ -151,9 +151,11 @@ Read my writings on Django, System Design, Microservices, etc. on
 
 Pick a slot to meet me and we can chat about anything on this planet! 😅 
 
-<a href="https://calendly.com/iammahboob-a" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-  
-📫 Reach Me On: 🙋🏿‍♂️
+<a href="https://calendly.com/iammahboob-a" target="_blank">
+  <img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png">
+</a>
+
+### 📫 Reach Me On: 🙋🏿‍♂️
 [![Email Me](https://img.shields.io/badge/mahboob-black?style=flat&logo=gmail)](mailto:connect.mahboobalam@gmail.com?subject=Hello) 
 <img src="https://komarev.com/ghpvc/?username=mahboob-a&label=Profile%20views&color=0e75b6&style=flat" alt="mahboob-a" /> 
 <p align="left">
@@ -161,16 +163,19 @@ Pick a slot to meet me and we can chat about anything on this planet! 😅
     <img src="https://img.shields.io/badge/Twitter-05122A?style=flat&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://linkedin.com/in/i-mahboob-alam" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-7A4AFE?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://hashnode.com/@imehboob" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-05122A?style=flat&logo=hashnode&logoColor=white" alt="Hashnode">
   </a>
   <a href="https://medium.com/@imehboob" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-05122A?style=flat&logo=medium&logoColor=white" alt="Medium">
+    <img src="https://img.shields.io/badge/Medium-7A4AFE?style=flat&logo=medium&logoColor=white" alt="Medium">
   </a>
   <a href="https://dev.to/imahboob_a" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-05122A?style=flat&logo=dev.to&logoColor=white" alt="Devto">
+  </a>
+  <a href="https://codolio.com/profile/yurious" target="_blank">
+      <img src="https://img.shields.io/badge/Codolio-7A4AFE?style=flat" alt="Codolio Profile">
   </a>
   <a href="https://www.leetcode.com/mahboob-alam" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-05122A?style=flat&logo=leetcode&logoColor=white" alt="LeetCode">
