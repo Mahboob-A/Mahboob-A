@@ -141,6 +141,10 @@ Read my writings on Django, System Design, Microservices, etc. on
 
 <br/>
 
+#### 🔖 My Bookmarks
+<a href="https://app.daily.dev/mahboob_a"><img src="https://api.daily.dev/devcards/v2/2cWKysAc3eZz79KZ5av5K.png?type=wide&r=etq" width="430" alt="Mahboob Alam's Dev Card"/></a>
+
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people</b> so if you want to say <b>hi, I'll be happy to hear you more!</b> 😊</em>
 
 #### 📫 And in case you wanted to say hi...
