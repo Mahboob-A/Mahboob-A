@@ -104,18 +104,23 @@ Read my writings on Django, System Design, Microservices, etc. on
   <tr>
     <td>
       <p align="center">
-        <a href="https://github.com/Mahboob-A">
+        <a href="https://github.com/mahboob-a">
           <img src="https://api.vaunt.dev/v1/github/entities/Mahboob-A/contributions?format=svg" width="370" title="Mahboob's Core Dev Level"/>
         </a>
       </p>
     </td>
     <td>
       <p align="center">
-        <a href="https://github.com/Mahboob-A">
+        <a href="https://github.com/mahboob-a">
           <img src="https://vaunt.dev" width="370" title="My Earned Milestones"/>
         </a>
       </p>
     </td>
+      #### 🎮 Inside My Vaunt Level 7 Stats:
+- **Level 7 Status:** Places my open-source contribution volume and codebase velocity within the top tiers tracked by the Vaunt ecosystem.
+- **2.4k Commits & 340 PRs:** Reflects high developer consistency, maintaining structured pull-request cycles over direct branch pushing.
+- **90 Ecosystem Projects:** Proves versatility in navigating, adapting to, and shipping production code inside ninety distinct community environments.
+
   </tr>
 </table>
  
