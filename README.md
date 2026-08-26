@@ -16,12 +16,13 @@ const mahboob = {
     technologies: {
         backEnd: {
             python: ["Django", "FasiAPI", "Flask"],
+            go: ["Gin"],
             tools: ["Redis", "Celery", "WebSocket", "Django Rest Framework", "RabbitMQ", "RESTFul API", "Git"], 
         },
 
         devOps: {
           cloud: ["AWS",  "Route53", "Nginx", "EC2", "Digital Ocean"],
-          tools: ["Docker🐳", "Linux"], 
+          tools: ["Docker", "Linux", "Pulumi", "IaC", "Kubernetes"], 
         },
 
         databases: {
