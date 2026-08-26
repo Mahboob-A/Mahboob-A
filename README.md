@@ -98,7 +98,29 @@ Read my writings on Django, System Design, Microservices, etc. on
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
 
+### ⚙️ &nbsp;GitHub Analytics 2
+
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <a href="https://github.com/Mahboob-A">
+          <img src="https://api.vaunt.dev/v1/github/entities/Mahboob-A/contributions?format=svg" width="370" title="Mahboob's Core Dev Level"/>
+        </a>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <a href="https://github.com/Mahboob-A">
+          <img src="https://vaunt.dev" width="370" title="My Earned Milestones"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+ 
 ### ⚙️ &nbsp;GitHub Analytics
+
 
 <table>
   <tr>
