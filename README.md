@@ -9,7 +9,7 @@
 const mahboob = {
     pronouns: "He" | "Him",
 
-    code: ["Python", "C", "Cpp"],
+    code: ["Python", "Go", "C", "Cpp"],
 
     askMeAbout: ["Backend Web Dev", "Tech", "Sysdem Design", "Cloud", "Tech Blog", "Microservices", "Solo Travelling"],
 
